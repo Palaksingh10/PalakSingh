@@ -1,7 +1,6 @@
 # PalakSingh
 <!-- MASTER PIC -->
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="![rrr](https://user-images.githubusercontent.com/107293486/184511015-bb67f484-9ee2-4756-aee7-147c0388628b.gif)
-" height="175px"/></a>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://dribbble.com/shots/2413754/attachments/2413754-Coding?mode=media" height="175px"/></a>
 <!-- INTRODUCTION -->
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Palak </h1>
