@@ -1,6 +1,6 @@
 # PalakSingh
 <!-- MASTER PIC -->
-[Uploading illustration_data-scientist.webp…]()
+
 
 <!-- INTRODUCTION -->
     
