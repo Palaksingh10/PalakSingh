@@ -13,7 +13,8 @@
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
  - 🔭 I’m currently working on **Analytical Skills**
 
-- 🌱 I’m currently learning **Data Science and Analytics.**
+- 🌱 Working on new  **Data Science and Analytics** Skills.
+- 🌱 Learned new Tool for data visvualization named **Retool**.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Palaksingh10?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a>
 
