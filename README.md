@@ -1,4 +1,4 @@
-# PalakSingh
+# PalakSingh10.github.io
 <!-- MASTER PIC -->
 
 
