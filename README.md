@@ -38,29 +38,3 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
-<br>
-
-
- 
-
-<!--CONNECT WITH ME CODE  -->
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
-<!-- CONNECT WITH ME ICONS CODE -->
-<p align="left">
-<a href = "https://www.linkedin.com/in/palak-singh10/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/Palaksingh10" target="_blank"><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:Palakthakur183@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/palakthakur183" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
-
-</p>
-
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.adityavsingh.com)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-22%20September%202021-yellow.svg)](https://github.com/AVS1508/AVS1508.github.io/commit/master)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20March%202022-yellow.svg)](https://github.com/AVS1508/AVS1508.github.io/commit/master)
-
- <p align="justify">This website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using ReactJS, Bootstrap, and CSS.</p>
-
-![Personal Résume Website](https://raw.githubusercontent.com/AVS1508/AVS1508.github.io/main/website-display.webp)
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
